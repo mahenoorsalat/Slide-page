@@ -125,6 +125,17 @@ form button:hover{
 }
 
 @media (max-width:420px){
+    body{
+        background-image: url(bg.jpg);
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        font-family: sans-serif;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
     main{
         max-width: 400px;
     }
@@ -137,7 +148,7 @@ form button:hover{
         padding: 40% 0;
         color: white;
         font-size: 16px;
-        background: #cf0d4c;
+        background: #4f82af;
     }
     form {
         padding: 30px 20px;
