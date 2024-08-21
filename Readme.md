@@ -1,5 +1,7 @@
 # Slide Page
 
+![Banner](https://images.pexels.com/photos/300857/pexels-photo-300857.jpeg?auto=compress&cs=tinysrgb&w=600)
+
 This project features a responsive login and signup page with a smooth transition between the two forms. The design is implemented using HTML, CSS, and JavaScript, providing a seamless user experience.
 
 ## Features
